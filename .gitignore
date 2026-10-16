@@ -1,0 +1,7 @@
+# Binarios compilados
+*.exe
+conversormoeda
+
+# Sistema
+.DS_Store
+Thumbs.db
